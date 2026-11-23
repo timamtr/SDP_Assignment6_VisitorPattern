@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Математикалық сауаттылық",
+    "topics": [
+      {
+        "name": "Пайыздар",
+        "questions": [
+          {
+            "type": "single",
+            "body": "80-нің 25%-ы неше?",
+            "explanation": "$80 \\cdot 0{,}25 = 20$",
+            "options": [
+              { "body": "15", "is_correct": false },
+              { "body": "20", "is_correct": true },
+              { "body": "25", "is_correct": false },
+              { "body": "40", "is_correct": false }
+            ]
+          },
+          {
+            "type": "open",
+            "body": "Бағасы 5000 тг тауар 20%-ға арзандады. Жаңа баға (тг)?",
+            "answer_text": "4000",
+            "explanation": "$5000 \\cdot 0{,}8 = 4000$"
+          }
+        ]
+      }
+    ]
+  }
+]
